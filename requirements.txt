@@ -1,0 +1,8 @@
+# SentinelDB — Python Dependencies
+# Install with: pip install -r requirements.txt
+
+psycopg2-binary==2.9.9   # PostgreSQL adapter (binary = no build tools needed)
+streamlit==1.32.0         # Dashboard UI framework
+pandas==2.2.1             # Data manipulation (DataFrames)
+plotly==5.20.0            # Interactive charts
+python-dotenv==1.0.1      # Load .env files for secrets
