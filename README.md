@@ -345,7 +345,7 @@ All checks happen **BEFORE transaction commits**, ensuring fraud is caught insta
 - Haversine formula assumes Earth as sphere (97% accuracy sufficient for fraud detection)
 - Risk scoring weights can be tuned based on historical fraud data
 
-## 📝 DBMS Viva Questions Covered
+## 📝 DBMS Concepts
 
 This project demonstrates mastery of:
 
