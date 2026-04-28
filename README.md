@@ -53,7 +53,7 @@ sentineldb/
 │
 ├── requirements.txt                # Python dependencies
 ├── test_syntax.py                  # SQL validator
-└── README_GITHUB.md               # This file
+└── README.md               # This file
 ```
 
 ## 🚀 Quick Start
